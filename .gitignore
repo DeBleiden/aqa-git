@@ -21,6 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 replay_pid*
 
 # git commit --ammend
+=======
+replay_pid*
+>>>>>>> 70867a52d03544ba87db26b0983192ae6700274e
